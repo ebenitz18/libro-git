@@ -1,2 +1,4 @@
 En este capítulo veremos cómo usar GitHub para alojar repositorios en
 remoto.
+Scott Chacon and Ben Straub. Pro Git. Apress.
+Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
